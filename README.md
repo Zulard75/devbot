@@ -1,4 +1,4 @@
-# DevPilot
+# Devbot
 
 A cloud-deployed AI developer assistant built as a TypeScript monorepo.
 
